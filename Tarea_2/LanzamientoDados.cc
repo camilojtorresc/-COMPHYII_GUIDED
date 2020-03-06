@@ -108,7 +108,7 @@ int main()
        << "Reglas: \n"
        << "1. Se empieza con un total de 10 monedas.\n"
        << "2. Solo se puede apostar un máximo de 10 monedas.\n"
-       << "3. Se gana cuando la suma de los dos dados lanzados sumen 1 o 7.\n"
+       << "3. Se gana cuando la suma de los dos dados lanzados sumen 11 o 7.\n"
        << "4. Al ganar se duplica el total de dinero apostado.\n"
        << "5. Al momento de ganar 20 o más monedas el juego se acaba.\n"
        << "6. Se puede retirar en cualquier momento del juego antes de hacer una nueva apuesta.\n"
