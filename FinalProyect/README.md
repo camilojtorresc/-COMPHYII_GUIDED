@@ -1,4 +1,4 @@
-#Para Visualizar el Proyecto#
+# Para Visualizar el Proyecto
 
 Compile el código y ejecútelo normalmente para un código de **C++** con extensión ``.cc``.
 
